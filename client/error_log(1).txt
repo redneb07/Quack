@@ -1,0 +1,24 @@
+[11-Dec-2017 16:02:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'meisha_meisham'@'localhost' (using password: YES) in /home/meiersha/public_html/phpfreechat-2.1.0/includes/dbh.inc.php on line 9
+[11-Dec-2017 16:02:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/meiersha/public_html/phpfreechat-2.1.0/includes/signup.inc.php on line 6
+[11-Dec-2017 16:02:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/meiersha/public_html/phpfreechat-2.1.0/includes/signup.inc.php on line 7
+[11-Dec-2017 16:02:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/meiersha/public_html/phpfreechat-2.1.0/includes/signup.inc.php on line 8
+[11-Dec-2017 16:02:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/meiersha/public_html/phpfreechat-2.1.0/includes/signup.inc.php on line 9
+[11-Dec-2017 16:02:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/meiersha/public_html/phpfreechat-2.1.0/includes/signup.inc.php on line 10
+[11-Dec-2017 16:06:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'meisha_meisham'@'localhost' (using password: YES) in /home/meiersha/public_html/phpfreechat-2.1.0/includes/dbh.inc.php on line 9
+[11-Dec-2017 16:06:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/meiersha/public_html/phpfreechat-2.1.0/includes/signup.inc.php on line 6
+[11-Dec-2017 16:06:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/meiersha/public_html/phpfreechat-2.1.0/includes/signup.inc.php on line 7
+[11-Dec-2017 16:06:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/meiersha/public_html/phpfreechat-2.1.0/includes/signup.inc.php on line 8
+[11-Dec-2017 16:06:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/meiersha/public_html/phpfreechat-2.1.0/includes/signup.inc.php on line 9
+[11-Dec-2017 16:06:17 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/meiersha/public_html/phpfreechat-2.1.0/includes/signup.inc.php on line 10
+[11-Dec-2017 16:26:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'meisha_meisham'@'localhost' (using password: YES) in /home/meiersha/public_html/phpfreechat-2.1.0/includes/dbh.inc.php on line 9
+[11-Dec-2017 16:26:50 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/meiersha/public_html/phpfreechat-2.1.0/includes/signup.inc.php on line 6
+[11-Dec-2017 16:26:50 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/meiersha/public_html/phpfreechat-2.1.0/includes/signup.inc.php on line 7
+[11-Dec-2017 16:26:50 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/meiersha/public_html/phpfreechat-2.1.0/includes/signup.inc.php on line 8
+[11-Dec-2017 16:26:50 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/meiersha/public_html/phpfreechat-2.1.0/includes/signup.inc.php on line 9
+[11-Dec-2017 16:26:50 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/meiersha/public_html/phpfreechat-2.1.0/includes/signup.inc.php on line 10
+[11-Dec-2017 16:30:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'meisha_meisham'@'localhost' (using password: YES) in /home/meiersha/public_html/phpfreechat-2.1.0/includes/dbh.inc.php on line 9
+[11-Dec-2017 16:30:11 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/meiersha/public_html/phpfreechat-2.1.0/includes/signup.inc.php on line 6
+[11-Dec-2017 16:30:11 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/meiersha/public_html/phpfreechat-2.1.0/includes/signup.inc.php on line 7
+[11-Dec-2017 16:30:11 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/meiersha/public_html/phpfreechat-2.1.0/includes/signup.inc.php on line 8
+[11-Dec-2017 16:30:11 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/meiersha/public_html/phpfreechat-2.1.0/includes/signup.inc.php on line 9
+[11-Dec-2017 16:30:11 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/meiersha/public_html/phpfreechat-2.1.0/includes/signup.inc.php on line 10
